@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alicelaibl
+- 👋 Hi, I’m Alice!
 - 👀 I’m interested in cool ways to detect and report bugs in data, UI side, back-end, etc. 
-- 🌱 I’m currently learning just how BL works!
-- 💞️ I’m looking to collaborate on fun technical ideas and ways to improves testing. 
+- 🌱 I’m currently learning just how BetterLesson works!
+- 💞️ I’m looking to collaborate on fun technical ideas and ways to improve testing. 
 - 📫 How to reach me : slack.
 
 <!---
